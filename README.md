@@ -8,7 +8,7 @@
 
 #Here is my project demo link:https://salmon-water-0e2abf910.2.azurestaticapps.net
 
-#Here is my github Repositary Link:
+#Here is my github Repositary Link:https://github.com/TARAKESWARI11/ProjectByTaraa.git
 
 #Azure technologies used for this project
 
