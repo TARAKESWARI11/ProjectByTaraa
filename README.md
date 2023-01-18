@@ -10,11 +10,25 @@
 
 #Here is my github Repositary Link:https://github.com/TARAKESWARI11/ProjectByTaraa.git
 
+#Here is my Azure HelpBot link:https://salmon-water-0e2abf910.2.azurestaticapps.net/HelpBot.html
+
+![Screenshot (5)](https://user-images.githubusercontent.com/113702287/213161872-6b538133-d9cb-4aa4-a720-25d92834785e.png)
+
+
+
 #Azure technologies used for this project
 
 #-Static web app
 
+![Screenshot (2)](https://user-images.githubusercontent.com/113702287/213161986-1871e768-d979-4b29-9977-a87943293ccd.png)
+
+
 #-Health Bot
+
+![Screenshot (3)](https://user-images.githubusercontent.com/113702287/213162054-8bc9074f-c486-48c4-b3b9-d241570e6b37.png)
+
+![Screenshot (4)](https://user-images.githubusercontent.com/113702287/213162066-2eea0f40-122e-44b4-becb-ace19e79941c.png)
+
 
 #Screenshots
 
