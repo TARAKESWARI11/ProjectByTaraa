@@ -20,6 +20,9 @@
 
 #-Static web app
 
+![Screenshot (6)](https://user-images.githubusercontent.com/113702287/213165122-287f1d88-33d3-487b-8a95-6a6d7128028e.jpg)
+
+
 ![Screenshot (2)](https://user-images.githubusercontent.com/113702287/213161986-1871e768-d979-4b29-9977-a87943293ccd.png)
 
 
