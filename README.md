@@ -2,7 +2,7 @@
 
 #SAVE_POOR
 
-#This web based charity application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+#This web based charity application has been developed for the accomplishment of Future Ready Talent Internship program launched by IBM SkillsBuild. 
 
 #I have designed a website named save poor
 
