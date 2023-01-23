@@ -1,8 +1,7 @@
 # ProjectByTaraa
 
 #SAVE_POOR
-
-#This web based charity application has been developed for the accomplishment of Future Ready Talent Internship program launched by IBM SkillsBuild. 
+#This web based charity application has been developed for the accomplishment of  Internship program launched by IBM SkillsBuild. 
 
 #I have designed a website named save poor
 
